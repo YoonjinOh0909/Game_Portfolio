@@ -5,7 +5,6 @@
    
 끈질기게 붙잡고, **배우는 자세**로 임하겠습니다 감사합니다.
 
-
     
 # 프로젝트
 [1. Pa!nt](#Paint)   
@@ -78,7 +77,7 @@
 - 2023 SUPERCENT x TikTok 하이퍼 캐주얼 게임 챌린지 지원
   
 ## 메이플 심포니 월드
-<img src="https://github.com/user-attachments/assets/381299c5-4c93-4bd4-a81f-11ce5f8deb91" width="250px" title="Symphony World Title" alt="Symphony World Title"></img>
+<img src="SymphonyWorld.png" width="250px" title="Symphony World Title" alt="Symphony World Title"></img>
 > 장르 : 리듬 플랫포머 게임   
 > 엔진 : 메이플스토리 월드    
 > 플랫폼 : 메이플스토리 월드   
