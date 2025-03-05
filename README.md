@@ -11,7 +11,7 @@
 [1. Pa!nt](#Paint)   
 [2. W!P](#WiP)   
 [3. 메이플 심포니 월드](#메이플-심포니-월드)   
-[4. BCI VR Horror Attraction: The Mad Trail](#BCI-VR-Horror-Attraction:-The-Mad-Trail)   
+[4. BCI VR Horror Attraction: The Mad Trail](#BCI-VR-Horror-Attraction-The-Mad-Trail)   
 
 ## Paint
 ![Alt text](https://github.com/user-attachments/assets/c7eb8582-0996-4473-8478-6f80bee934be "Pa!nt Title") <br/>
