@@ -13,7 +13,7 @@
 [4. BCI VR Horror Attraction: The Mad Trail](#BCI-VR-Horror-Attraction-The-Mad-Trail)   
 
 ## Paint
-![Alt text](https://github.com/user-attachments/assets/c7eb8582-0996-4473-8478-6f80bee934be "Pa!nt Title") <br/>
+![Alt text "Paint Title jpg"](Resources/Paint.jpg "Pa!nt Title") <br/>
 > 장르 : 퍼즐 플랫포머 게임   
 > 엔진 : Unity   
 > 플랫폼 : Play Store(OBT 운영), Steam   
@@ -50,7 +50,7 @@
 - 이탈 지점 확인 후 UX 개편   
 
 ## WiP
-<img src="https://github.com/user-attachments/assets/dfe78b2b-95f7-4150-9927-cb17dd750576" width="250px" title="W!P Title" alt="W!P Title"></img><br/>
+<img src="Resources/WIP.png" width="250px" title="W!P Title" alt="W!P Title"></img><br/>
 > 장르 : 퍼즐 캐주얼 게임   
 > 엔진 : Unity   
 > 플랫폼 : 미출시 (모바일)   
@@ -77,7 +77,7 @@
 - 2023 SUPERCENT x TikTok 하이퍼 캐주얼 게임 챌린지 지원
   
 ## 메이플 심포니 월드
-<img src="SymphonyWorld.png" width="250px" title="Symphony World Title" alt="Symphony World Title"></img>
+<img src="Resources/SymphonyWorld.png" width="250px" title="Symphony World Title" alt="Symphony World Title"></img>
 > 장르 : 리듬 플랫포머 게임   
 > 엔진 : 메이플스토리 월드    
 > 플랫폼 : 메이플스토리 월드   
@@ -99,7 +99,7 @@ Lua 언어를 활용하여 메이플스토리 월드에서 제작이 되었습�
 - 점수 산정 시스템 구현   
 
 ## BCI VR Horror Attraction: The Mad Trail
-<img src="https://github.com/user-attachments/assets/79077a8d-2085-4bed-a080-2e87cf5ccb87" width="250px" title="Mad Trail Title" alt="Mad Trail Title"></img>
+<img src="Resources/MadTrail.jpg" width="250px" title="Mad Trail Title" alt="Mad Trail Title"></img>
 > 장르 : 공포 게임   
 > 엔진 : Unity    
 > 플랫폼 : Steam   
