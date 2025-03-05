@@ -8,12 +8,12 @@
 
     
 # 프로젝트
-[1. Pa!nt](#Pa!nt)   
-[2. W!P](#W!P)   
+[1. Pa!nt](#Paint)   
+[2. W!P](#WiP)   
 [3. 메이플 심포니 월드](#메이플-심포니-월드)   
 [4. BCI VR Horror Attraction: The Mad Trail](#BCI-VR-Horror-Attraction:-The-Mad-Trail)   
 
-## Pa!nt
+## Paint
 ![Alt text](https://github.com/user-attachments/assets/c7eb8582-0996-4473-8478-6f80bee934be "Pa!nt Title") <br/>
 > 장르 : 퍼즐 플랫포머 게임   
 > 엔진 : Unity   
@@ -50,7 +50,7 @@
 - Unity Analytics 를 활용하여 데이터 수집   
 - 이탈 지점 확인 후 UX 개편   
 
-## W!P
+## WiP
 <img src="https://github.com/user-attachments/assets/dfe78b2b-95f7-4150-9927-cb17dd750576" width="250px" title="W!P Title" alt="W!P Title"></img><br/>
 > 장르 : 퍼즐 캐주얼 게임   
 > 엔진 : Unity   
