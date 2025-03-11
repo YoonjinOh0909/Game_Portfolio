@@ -197,7 +197,7 @@ public class ObstacleMovement : MonoBehaviour
 
     private void FindEndPos(){
 
-        LineRendererConnector Temp = this.transform.parent.transform.parent.GetComponent<LineAble>().Line?.GetComponent<LineRendererConnector>();
+        LineRendererConnector Temp = this.transform.parent.transform.parent.GetComponent<LineAble>()?.Line.GetComponent<LineRendererConnector>();
         
         if(Temp == null){
             findCnt++;
