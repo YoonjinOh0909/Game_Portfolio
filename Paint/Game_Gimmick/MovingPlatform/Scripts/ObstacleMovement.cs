@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using System;
 using UnityEngine;
@@ -197,7 +197,8 @@ public class ObstacleMovement : MonoBehaviour
 
     private void FindEndPos(){
 
-        LineRendererConnector Temp = this.transform.parent.transform.parent.GetComponent<LineAble>()?.Line.GetComponent<LineRendererConnector>();
+        LineAble tempLineAble = this.transform.parent.transform.parent.GetComponent<LineAble>();
+        LineRendererConnector Temp = (tempLineAble.Line != null) ? tempLineAble.Line.GetComponent<LineRendererConnector>() : null;
         
         if(Temp == null){
             findCnt++;
