@@ -41,7 +41,8 @@ public class LazerButton : MonoBehaviour
     }
 
     private void FindLazerDiode(){
-        LineRendererConnector Temp = this.transform.parent.transform.parent.GetComponent<LineAble>()?.Line.GetComponent<LineRendererConnector>();
+        LineAble tempLineAble = this.transform.parent.transform.parent.GetComponent<LineAble>();
+        LineRendererConnector Temp = (tempLineAble.Line != null) ? tempLineAble.Line.GetComponent<LineRendererConnector>() : null;
 
         if(Temp == null){
             findCnt++;
