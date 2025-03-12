@@ -39,7 +39,7 @@
 
  
 ## 비눗방울
-> > 링크 : [비눗방울](https://github.com/OhBangIll/Game_Portfolio/tree/main/Paint/Game_Gimmick/Cannon)   
+> 링크 : [비눗방울](https://github.com/OhBangIll/Game_Portfolio/tree/main/Paint/Game_Gimmick/Cannon)   
 > 범위 안에 플레이어가 들어가면, 플레이어를 향해 색상을 변경시키는 비눗방울을 쏩니다.
 
 <img src="/Resources/Cannon/Cannon_Red.png" width="75px" title="Cannon_Red" alt="Cannon_Red"></img>
