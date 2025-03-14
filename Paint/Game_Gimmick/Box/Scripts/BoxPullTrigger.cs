@@ -5,8 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 
 /*
-    * File : BoxTrigger.cs
-    * Desc : 상자가 위 아래로 겹치거나 플레이어가 올라갔을 때 하나의 더미로 인식하는 기능 구현
+    * File : BoxPullTrigger.cs
+    * Desc : 상자를 당길 때의 행동에 제약 부여
     *
     & 
     &   [public]
