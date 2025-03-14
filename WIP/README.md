@@ -1,5 +1,5 @@
 # W!P
-<img src="/Resources/WIP.png" width="250px" title="W!P Title" alt="W!P Title"></img><br/>
+<img src="/Resources/WIP.png" width="100px" title="W!P Title" alt="W!P Title"></img><br/>
 
 ## 튜토리얼
 <p align = "center">
