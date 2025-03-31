@@ -4,7 +4,6 @@
 **궁극적 재미**를 추구하는 **게임 개발자 오윤진**입니다.   
    
 끈질기게 붙잡고, **배우는 자세**로 임하겠습니다 감사합니다.
-
     
 # 프로젝트
 [1. Pa!nt](#Paint)   
@@ -119,5 +118,6 @@ Unity의 Cinemachine 기능인 Dolly Track을 주기능으로 사용하였습니
 - Steam VR sdk를 활용하여 VR Vive pro 연결   
 - 점수 산정 시스템 구현   
 
-
+# 블로그
+[블로그 링크](https://velog.io/@ohbangill/posts)
 
