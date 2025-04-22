@@ -119,5 +119,5 @@ Unity의 Cinemachine 기능인 Dolly Track을 주기능으로 사용하였습니
 - 점수 산정 시스템 구현   
 
 # 블로그
-[블로그 링크](https://velog.io/@ohbangill/posts)
+[블로그 링크[Velog]](https://velog.io/@ohbangill/posts)
 
